@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
             dialog.setTitle("關於 Android BMI");
             dialog.setMessage("Android BMI Calc");
             dialog.show();
-    };
+    }
 }
 
 
